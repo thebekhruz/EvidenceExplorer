@@ -1,0 +1,7 @@
+# General system-related ignore
+.DS_Store        
+*.pyc            
+__pycache__/    
+
+# Virtual environment
+./env/       
