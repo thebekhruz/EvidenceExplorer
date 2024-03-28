@@ -4,4 +4,4 @@
 __pycache__/    
 
 # Virtual environment
-./env/       
+env/       
