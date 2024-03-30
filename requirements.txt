@@ -3,7 +3,9 @@ pandas
 scikit-learn
 matplotlib
 jupyter
-spaCy
 
+transformers
+
+spaCy
 # Spacy models loading
 # !python -m spacy download en_core_web_sm
