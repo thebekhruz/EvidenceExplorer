@@ -1,0 +1,184 @@
+Fitting GradientBoostingClassifier(max_depth=10, random_state=42)
+==============================
+GradientBoostingClassifier
+****Results****
+Accuracy: 67.0000%
+F1 Score: 0.6312
+Precision: 0.6119
+Recall: 0.67
+Confusion Matrix:
+[[63 10]
+ [23  4]]
+# 2 is bad
+GradientBoostingClassifier
+****Results****
+Accuracy: 64.0000%
+F1 Score: 0.6439
+Precision: 0.6483
+Recall: 0.64
+Confusion Matrix:
+[[54 19]
+ [17 10]]
+# 4 bad
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============================
+Fitting GradientBoostingClassifier(max_depth=10, random_state=42)
+==============================
+GradientBoostingClassifier
+****Results****
+Accuracy: 67.0000%
+F1 Score: 0.6312
+Precision: 0.6119
+Recall: 0.67
+Confusion Matrix:
+[[63 10]
+ [23  4]]
+==============================
+Fitting GradientBoostingClassifier(learning_rate=0.2, max_depth=10, random_state=42)
+==============================
+GradientBoostingClassifier
+****Results****
+Accuracy: 73.0000%
+F1 Score: 0.6723
+Precision: 0.6825
+Recall: 0.73
+Confusion Matrix:
+[[69  4]
+ [23  4]]
+==============================
+Fitting GradientBoostingClassifier(learning_rate=0.3, max_depth=10, random_state=42)
+==============================
+GradientBoostingClassifier
+****Results****
+Accuracy: 67.0000%
+F1 Score: 0.6114
+Precision: 0.5812
+Recall: 0.67
+Confusion Matrix:
+[[65  8]
+ [25  2]]
+==============================
+Fitting GradientBoostingClassifier(learning_rate=0.4, max_depth=10, random_state=42)
+==============================
+GradientBoostingClassifier
+****Results****
+Accuracy: 74.0000%
+F1 Score: 0.6981
+Precision: 0.705
+Recall: 0.74
+Confusion Matrix:
+[[68  5]
+ [21  6]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+==============================
+Fitting GradientBoostingClassifier(max_depth=10, random_state=42)
+==============================
+GradientBoostingClassifier
+****Results****
+Accuracy: 67.0000%
+F1 Score: 0.6312
+Precision: 0.6119
+Recall: 0.67
+Confusion Matrix:
+[[63 10]
+ [23  4]]
+==============================
+Fitting GradientBoostingClassifier(max_depth=10, min_samples_split=4, random_state=42)
+==============================
+GradientBoostingClassifier
+****Results****
+Accuracy: 69.0000%
+F1 Score: 0.6535
+Precision: 0.6397
+Recall: 0.69
+Confusion Matrix:
+[[64  9]
+ [22  5]]
+==============================
+Fitting GradientBoostingClassifier(max_depth=10, min_samples_split=6, random_state=42)
+==============================
+GradientBoostingClassifier
+****Results****
+Accuracy: 71.0000%
+F1 Score: 0.6677
+Precision: 0.66
+Recall: 0.71
+Confusion Matrix:
+[[66  7]
+ [22  5]]
+==============================
+Fitting GradientBoostingClassifier(max_depth=10, min_samples_split=10, random_state=42)
+==============================
+GradientBoostingClassifier
+****Results****
+Accuracy: 69.0000%
+F1 Score: 0.6237
+Precision: 0.5991
+Recall: 0.69
+Confusion Matrix:
+[[67  6]
+ [25  2]]
+
+
+
+
+
+
+
+
+
+ 
+==============================
+Fitting GradientBoostingClassifier(max_depth=10, random_state=42, subsample=0.8)
+==============================
+GradientBoostingClassifier
+****Results****
+Accuracy: 73.0000%
+F1 Score: 0.6611
+Precision: 0.6786
+Recall: 0.73
+Confusion Matrix:
+[[70  3]
+ [24  3]]
+==============================
+Fitting GradientBoostingClassifier(max_depth=10, random_state=42, subsample=0.9)
+==============================
+GradientBoostingClassifier
+****Results****
+Accuracy: 69.0000%
+F1 Score: 0.6109
+Precision: 0.5731
+Recall: 0.69
+Confusion Matrix:
+[[68  5]
+ [26  1]]
+==============================
+Fitting GradientBoostingClassifier(max_depth=10, random_state=42)
